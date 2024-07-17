@@ -1,0 +1,17 @@
+.matrix {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  padding-top: 12%;
+}
+
+.row {
+  display: flex;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+  border: 1px solid black;
+}
